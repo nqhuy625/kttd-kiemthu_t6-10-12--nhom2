@@ -15,4 +15,4 @@ Selenium hỗ trợ tự động hóa trình duyệt, giúp thực hiện các t
 
 3. Sử dụng AI
 
-Em đã hỏi AI cách kiểm tra tiêu đề website bằng Selenium. Câu trả lời phù hợp sau khi em chạy thử chương trình. Qua đó, em hiểu hơn cách dùng driver.title và assert để kiểm tra kết quả.
+Em đã hỏi AI cách kiểm tra tiêu đề website bằng Selenium và cách dùng pytest. Câu trả lời phù hợp sau khi em chạy thử chương trình. Qua đó, em hiểu hơn cách dùng driver.title và assert để kiểm tra kết quả.
