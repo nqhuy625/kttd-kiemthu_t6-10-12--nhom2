@@ -14,7 +14,7 @@ def test_smoke():
 
         # Lấy tiêu đề thực tế và tiêu đề mong đợi
         actual_title = browser.title
-        expected_title = "Sai tieu de"
+        expected_title = "The Internet"
 
         # Kiểm tra tiêu đề trang
         if actual_title != expected_title:
