@@ -1,0 +1,27 @@
+Notes - Tuần 04
+
+1. Những điều đã học
+
+Trong tuần 4, em đã thực hành viết bài kiểm thử tự động cho website bằng Python, Selenium WebDriver và pytest. Em biết cách khởi tạo trình duyệt Chrome, truy cập website bằng `driver.get()`, lấy tiêu đề trang bằng `driver.title` và sử dụng câu lệnh `assert` để kiểm tra kết quả.
+
+Em cũng hiểu cách dùng `print()` để hiển thị thông báo trong Terminal và cách sử dụng pytest để xác định bài kiểm thử thành công (`PASSED`) hay thất bại (`FAILED`). Ngoài ra, em biết sử dụng khối `try...finally` để đóng trình duyệt sau khi kiểm thử.
+
+2. Trả lời câu hỏi phần đọc
+
+-Câu 1: Selenium WebDriver dùng để làm gì?
+
+Selenium WebDriver là công cụ hỗ trợ tự động hóa trình duyệt web. Công cụ này cho phép chương trình thực hiện các thao tác như mở website, tìm phần tử, nhập dữ liệu và nhấn nút.
+
+-Câu 2: pytest dùng để làm gì?
+
+pytest là framework kiểm thử Python, giúp phát hiện và chạy các hàm kiểm thử, kiểm tra điều kiện bằng `assert` và hiển thị kết quả `PASSED` hoặc `FAILED`.
+
+3. Ghi chú về việc sử dụng AI
+
+Em đã sử dụng AI để tìm hiểu cách viết bài Smoke Test bằng Selenium và pytest, cách kiểm tra tiêu đề website và cách xử lý khi kết quả kiểm thử không đúng như mong đợi.
+
+Qua đó, em hiểu rằng chỉ in chữ `FAILED` bằng `print()` không khiến pytest tự động đánh dấu bài kiểm thử thất bại. Cần sử dụng `assert` hoặc cơ chế báo lỗi phù hợp để pytest xác định đúng kết quả. Em cần tự chạy chương trình và kiểm tra kết quả thực tế để xác nhận bài kiểm thử hoạt động đúng.
+
+4. Tự đánh giá
+
+Em đã làm quen với quy trình viết, chạy và đọc kết quả của một bài kiểm thử website cơ bản. Em cần luyện tập thêm để hiểu rõ hơn cách kiểm thử các chức năng khác của website.
