@@ -11,8 +11,8 @@
 ## Slide và ghi chú
 
 - Bản thiết kế: https://www.canva.com/design/DAHYvDhVMf4/ffGqpu9jUhV1YwV7kKC_Gg/edit
-- **Chưa có `slides.pdf` trong lần đẩy này:** phiên Canva dùng để kiểm tra yêu cầu đăng nhập khi tải PDF. Link Canva không thay thế file PDF bắt buộc.
-- Bản Canva hiện có 14 trang theo lựa chọn giữ đầy đủ nội dung của nhóm; yêu cầu Timeline là tối đa 8 slide. Cần xử lý giới hạn này hoặc xác nhận với giảng viên trước khi coi bài slide đạt yêu cầu.
+- [slides.pdf](slides.pdf): bản PDF 14 trang xuất từ Canva, đã bổ sung ngày 28/10/2026; giữ nguyên nội dung, thứ tự và chất lượng file tải về.
+- Nhóm quyết định giữ đủ 14 trang. Timeline ghi tối đa 8 slide; bản PDF này giữ 14 trang theo yêu cầu của trưởng nhóm, chưa phải xác nhận giảng viên đã chấp thuận vượt giới hạn.
 - `notes.md` sẽ bổ sung sau khi nhận góp ý thực tế, theo quyết định của trưởng nhóm; chưa tạo ghi chú hoặc góp ý giả.
 
 ## Chạy lại
